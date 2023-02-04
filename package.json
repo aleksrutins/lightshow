@@ -1,0 +1,12 @@
+{
+  "name": "lightshow",
+  "version": "1.0.0",
+  "main": "lib/extension.js",
+  "repository": "https://github.com/aleksrutins/lightshow",
+  "author": "Aleks Rutins <aleks@rutins.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}

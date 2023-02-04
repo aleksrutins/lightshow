@@ -1,0 +1,8 @@
+{
+  "name": "Lightshow",
+  "description": "A one-stop productivity shop for GNOME",
+  "uuid": "lightshow@aleks.rutins.com",
+  "shell-version": [
+    "43"
+  ]
+}
